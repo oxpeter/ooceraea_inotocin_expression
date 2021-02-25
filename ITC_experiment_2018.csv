@@ -1,0 +1,9 @@
+sample,ITC,treatment,phase
+M_B7_C16b_FL06_ctrlF_PEAligned.out.bam.htseq.gene.out,10.417855229102301,FL06,Brood Care
+M_B7_C16b_SP06_ctrlS_PEAligned.out.bam.htseq.gene.out,10.566387616258499,SP06,Reproductive
+M_B7_STC1b_FL06_ctrlF_PEAligned.out.bam.htseq.gene.out,9.80395687091824,FL06,Brood Care
+M_B7_STC1b_SP06_ctrlS_PEAligned.out.bam.htseq.gene.out,10.004763352647199,SP06,Reproductive
+M_B8_C1b_FL06_ctrlF_PEAligned.out.bam.htseq.gene.out,9.73590389070265,FL06,Brood Care
+M_B8_C1b_SP06_ctrlS_PEAligned.out.bam.htseq.gene.out,9.87480434345297,SP06,Reproductive
+M_B8_STC6_FL06_ctrlF_PEAligned.out.bam.htseq.gene.out,10.201874428197,FL06,Brood Care
+M_B8_STC6_SP06_ctrlS_PEAligned.out.bam.htseq.gene.out,10.5186416811821,SP06,Reproductive

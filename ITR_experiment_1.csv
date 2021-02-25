@@ -1,0 +1,15 @@
+sample,ITR,treatment,phase
+P_B1_C16II_SP12_ctrlS_PE_Aligned.out.bam.htseq.gene.out,5.650040953858969,SP12,S
+P_B1_C16III_FL12_ctrlF_PE_Aligned.out.bam.htseq.gene.out,6.096490746302661,FL12,F
+P_B1_C16III_SP12_ctrlS_PE_Aligned.out.bam.htseq.gene.out,5.79187700482692,SP12,S
+P_B1_C16IV_FL12_ctrlF_PE_Aligned.out.bam.htseq.gene.out,5.81967757098136,FL12,F
+P_B1_C16IV_SP12_ctrlS_PE_Aligned.out.bam.htseq.gene.out,5.67310320715351,SP12,S
+P_B2_C16II_FL12_ctrlF_PE_Aligned.out.bam.htseq.gene.out,5.58581159721908,FL12,F
+P_B2_STC1II_FL12_ctrlF_PE_Aligned.out.bam.htseq.gene.out,5.77868179348846,FL12,F
+P_B2_STC1II_SP12_ctrlS_PE_Aligned.out.bam.htseq.gene.out,5.80894859664068,SP12,S
+P_B2_STC1IV_FL12_ctrlF_PE_Aligned.out.bam.htseq.gene.out,5.59815377649734,FL12,F
+P_B2_STC1IV_SP12_ctrlS_PE_Aligned.out.bam.htseq.gene.out,5.5404045640753905,SP12,S
+P_B6_STC1II_FL12_ctrlF_SEAligned.out.bam.htseq.gene.out,5.68645310503,FL12,F
+P_B6_STC1II_SP12_ctrlS_SEAligned.out.bam.htseq.gene.out,5.849634562985769,SP12,S
+P_B6_STC1IV_FL12_ctrlF_SEAligned.out.bam.htseq.gene.out,5.50208986398175,FL12,F
+P_B6_STC1IV_SP12_ctrlS_SEAligned.out.bam.htseq.gene.out,5.86421295841022,SP12,S

@@ -1,0 +1,9 @@
+sample,ITR,treatment,phase
+M_B7_C16b_FL06_ctrlF_PEAligned.out.bam.htseq.gene.out,5.92532167174159,FL06,F
+M_B7_C16b_SP06_ctrlS_PEAligned.out.bam.htseq.gene.out,6.15414602834329,SP06,S
+M_B7_STC1b_FL06_ctrlF_PEAligned.out.bam.htseq.gene.out,6.11608227846105,FL06,F
+M_B7_STC1b_SP06_ctrlS_PEAligned.out.bam.htseq.gene.out,6.05349866536518,SP06,S
+M_B8_C1b_FL06_ctrlF_PEAligned.out.bam.htseq.gene.out,6.1835505535726,FL06,F
+M_B8_C1b_SP06_ctrlS_PEAligned.out.bam.htseq.gene.out,6.050614657122001,SP06,S
+M_B8_STC6_FL06_ctrlF_PEAligned.out.bam.htseq.gene.out,5.9770776603758895,FL06,F
+M_B8_STC6_SP06_ctrlS_PEAligned.out.bam.htseq.gene.out,6.25181000364892,SP06,S

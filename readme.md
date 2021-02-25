@@ -1,5 +1,5 @@
-# A vasopressin/oxytocin like receptor in the clonal raider ant
->> Fetter et al. (2021)
+# An oxytocin/vasopressin-related neuropeptide modulates social foraging behavior in the clonal raider ant
+> Fetter et al. (2021)
 
 This repository contains the scripts and derivative data utilized to create supplementary figure 8. 
 

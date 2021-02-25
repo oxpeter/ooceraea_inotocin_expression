@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4562696.svg)](https://doi.org/10.5281/zenodo.4562696) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oxpeter/ooceraea_inotocin_expression/HEAD?filepath=notebooks) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/oxpeter/ooceraea_inotocin_expression)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4562942.svg)](https://doi.org/10.5281/zenodo.4562942) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oxpeter/ooceraea_inotocin_expression/HEAD?filepath=notebooks) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/oxpeter/ooceraea_inotocin_expression)
 
 # An oxytocin/vasopressin-related neuropeptide modulates social foraging behavior in the clonal raider ant
 ```
